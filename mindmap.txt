@@ -1,0 +1,13 @@
+1] JSON Data 
+2] Design in Html
+3] Adding Dummy Data
+4] Style The Data
+5] Fetch The Quesiotns
+6] Counter For Each Question || For the Whole quiz
+7] Show First Quesiotns
+8] Check The Answer and get the second one
+====> if the counter of question ends then get repeat (8)
+9] Reset the counter ifffffff the playing counter belongs to the singe Question
+10] Add Done on the bullets of Questions done
+11] if the question is the last one => Show the result and the evaluation
+=============================================================================================================
