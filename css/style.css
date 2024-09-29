@@ -121,7 +121,7 @@ button:hover{
     font-size: large;
     margin-top:10px;
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 556px) {
     .starting-section{
         justify-content: center;
         font-size: 1.8rem;
